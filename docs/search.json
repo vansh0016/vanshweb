@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "blog.html#blog-2",
+    "href": "blog.html#blog-2",
+    "title": "blog",
+    "section": "Blog 2",
+    "text": "Blog 2"
+  },
+  {
+    "objectID": "blog.html#blog-3",
+    "href": "blog.html#blog-3",
+    "title": "blog",
+    "section": "Blog 3",
+    "text": "Blog 3"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Connect with Me",
+    "section": "",
+    "text": "As a data-driven professional with a strong background in Data Analytics and Electronics, I specialize in transforming complex data into actionable insights that drive strategic decision making. My experience spans across data analysis, financial markets and economic recession analysis, equipping me with a diverse skill set that bridges technical expertise with business acumen.\nMy hands-on experience with working with data has further refined my abilities in data visualization, financial modeling and database management. I am proficient in SQL, Python, Tableau and Excel, which I use to manage and analyze large datasets and create compelling data visualizations.\nI am passionate about using data to solve complex problems and uncover opportunities for growth. Whether working independently or as part of a team, I bring a collaborative spirit, a strong attention to detail and a commitment to delivering high-quality results. I am particularly interested in roles where I can apply my expertise to optimize processes, enhance performance and contribute to data-driven innovation. If you’re looking for a professional who can not only analyze data but also translate it into meaningful strategies, I would love to connect and explore potential opportunities."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Connect with Me",
+    "section": "",
+    "text": "As a data-driven professional with a strong background in Data Analytics and Electronics, I specialize in transforming complex data into actionable insights that drive strategic decision making. My experience spans across data analysis, financial markets and economic recession analysis, equipping me with a diverse skill set that bridges technical expertise with business acumen.\nMy hands-on experience with working with data has further refined my abilities in data visualization, financial modeling and database management. I am proficient in SQL, Python, Tableau and Excel, which I use to manage and analyze large datasets and create compelling data visualizations.\nI am passionate about using data to solve complex problems and uncover opportunities for growth. Whether working independently or as part of a team, I bring a collaborative spirit, a strong attention to detail and a commitment to delivering high-quality results. I am particularly interested in roles where I can apply my expertise to optimize processes, enhance performance and contribute to data-driven innovation. If you’re looking for a professional who can not only analyze data but also translate it into meaningful strategies, I would love to connect and explore potential opportunities."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Connect with Me",
+    "section": "Education",
+    "text": "Education\nGeorge Mason University | Fairfax, VA\nM.S. Data Analytics Engineering | May 2026\nUniversity of Mumbai | Mumbai, India\nB.E. Electronics and Data Science | May 2024"
+  },
+  {
+    "objectID": "portfolio.html#project-2",
+    "href": "portfolio.html#project-2",
+    "title": "portfolio",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "portfolio.html#project-3",
+    "href": "portfolio.html#project-3",
+    "title": "portfolio",
+    "section": "Project 3",
+    "text": "Project 3"
+  }
+]
